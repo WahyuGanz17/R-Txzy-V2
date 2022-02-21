@@ -1,10 +1,10 @@
 // Thanks For Allah
-// AlyaaXzy
+// WahyuGanz17
 // BOTCAHX
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // '6281347333069
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
